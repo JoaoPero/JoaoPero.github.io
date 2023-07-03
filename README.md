@@ -18,7 +18,7 @@ Exercício de fixação proposto pelo professor Bonieky Lacerda da platafaorma B
   <br>
 
   <p align="center">
-  <img alt="calendario da copa" src="github/preview.jpg" width="100%">
+
 </p>
 
 ## 🚀 Tecnologias
@@ -34,11 +34,9 @@ Esse projeto foi desenvolvido com as seguinte tecnologias:
 
 ---
 
-O Calendário da Copa é um projeto que mostra os jogos do Brasil na fase de grupos da Copa do Qatar 2022.
+Tributo feito para homenagear o jogador de futebol americano Patrick Mahomes e elencar a tragetória desde a faculdade até o presente momento.
 
 ## 📝 Layout
 
 ---
 
-
-Esse projeto está sob licença MIT.
