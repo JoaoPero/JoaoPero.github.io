@@ -1,11 +1,11 @@
-<h1 align="center"> Tributo feito ao jogador de futebol amercano - PATRICK MAHOMES <h1>
+<h1 align="center"> PATRICK MAHOMES <h1>
 
 <p align="center">
-Exercício de fixação proposto pela platafaorma , promovido pela Rocketseat para ensino de tecnologias WEB.
+Exercício de fixação proposto pelo professor Bonieky Lacerda da platafaorma B7Web, com o intuito de aplicar e fixar os comandos básicos de HTML e CSS.
 </p>
 
 <p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+<a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 <a href="#memo-Licença">Licença</a>;
@@ -28,7 +28,6 @@ Exercício de fixação proposto pela platafaorma , promovido pela Rocketseat pa
 Esse projeto foi desenvolvido com as seguinte tecnologias:
 
 - HTML e CSS
-- JavaScript
 - Git e Github
 
 ## 💻 Projeto
