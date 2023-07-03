@@ -34,7 +34,7 @@ Esse projeto foi desenvolvido com as seguinte tecnologias:
 
 ---
 
-Tributo feito para homenagear o jogador de futebol americano Patrick Mahomes e elencar a tragetória desde a faculdade até o presente momento.
+Tributo feito para homenagear o jogador de futebol americano Patrick Mahomes e exibir a sua tragetória desde a faculdade até o presente momento, o jogador vem se mostrando como um talento indiscutível e quebrando recordes históricos da NFL (National Football League).
 
 ## 📝 Layout
 
