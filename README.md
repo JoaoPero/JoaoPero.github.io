@@ -1,9 +1,7 @@
-# JoaoPero.github.io
-
-<h1 align="center"> TRIBUTO AO JOGADOR DE FUTEBOL AMERICANO - PATRICK MAHOMES <h1>
+<h1 align="center"> Tributo feito ao jogador de futebol amercano - PATRICK MAHOMES <h1>
 
 <p align="center">
-Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
+Exercício de fixação proposto pela platafaorma , promovido pela Rocketseat para ensino de tecnologias WEB.
 </p>
 
 <p align="center">
